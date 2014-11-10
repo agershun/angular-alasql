@@ -1,5 +1,5 @@
 # angular-alasql
-## AngularJS plugin for Alasql
+## AngularJS plugin for [Alasql](https://github.com/agershun/alasql) database
 
 
 The idea: make it simple as:
